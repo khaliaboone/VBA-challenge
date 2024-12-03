@@ -44,4 +44,4 @@ Column D: Close Price
 Column E: Volume
 
 
-I was able to create a code with help from CHATGPT and run it in with macros in Excel. I was very pleased to see that the columns were hightlighted green showing the code was sucesssful. I was not able to gather any red columns from the code. I would be delighted to see what I need to change for that to happen. 
+I was able to create a code with help from CHATGPT and run it with macros in Excel. I was very pleased to see that the columns were hightlighted green showing the code was sucesssful. I was not able to gather any red columns from the code. I would be delighted to see what I need to change for that to happen. 
